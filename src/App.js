@@ -1,7 +1,7 @@
 import React from 'react';  
 import styles from './App.module.css' ; 
 import {Grid} from '@material-ui/core'; 
-import {BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Button from '@material-ui/core/Button';
 import coronaImage from './Images/covid-image1.png';  
 import World from './World';

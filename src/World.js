@@ -1,7 +1,7 @@
 import React from 'react';  
-import styles from './App.module.css'  
-import {Cards, Charts, CountryPicker } from './Components'  
-import {fetchData} from './API';//we dont have to specify index file name if your file name is index  
+import styles from './App.module.css';
+import {Cards, Charts, CountryPicker } from './Components';
+import {fetchData} from './API';
 
 class World extends React.Component {
     state = {         
