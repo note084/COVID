@@ -25,7 +25,13 @@ class App extends React.Component {
                 <Button style={{backgroundColor: '#581845'}} className={styles.btnMyGov}  variant="contained" color="primary" href="https://covid-7551e.web.app/China">  
                 China
                 </Button>  
-                </Grid>  
+                </Grid>
+                <Button  style={{backgroundColor: 'darkblue'}} className={styles.btnMyGov}  variant="contained" color="primary" href="https://github.com/note084/COVID">  
+                Github
+                </Button>
+                <Button  style={{backgroundColor: 'darkred'}} className={styles.btnMyGov}  variant="contained" color="primary" href="https://drive.google.com/file/d/1gJ3p_7wW_sWGIr8cRj9ngC0y-HhOB4cx/view?usp=sharing">  
+                Video
+                </Button>
             </Grid>
             <br></br>
             <br></br>
