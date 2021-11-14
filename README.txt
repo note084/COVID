@@ -15,8 +15,5 @@ https://covid-7551e.web.app/
 $ npm install                   #installs dependencies
 $ npm start                     #starts services
 
-***Tutorial***
-https://www.c-sharpcorner.com/article/covid-19-tracker-website-with-react-material-ui-chart-js/
-
 ***Presentation Link***
 https://drive.google.com/file/d/1gJ3p_7wW_sWGIr8cRj9ngC0y-HhOB4cx/view?usp=sharing
